@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_inner_padding">10dp</dimen>
+
+    <!-- number slot dimens -->
+    <dimen name="number_slot_radius">5dp</dimen>
+    <dimen name="number_slot_size">45dp</dimen>
+    <dimen name="number_slot_padding">3dp</dimen>
+    <dimen name="number_slot_margins">3dp</dimen>
+    <dimen name="number_slot_normal_elevation">6dp</dimen>
+    <dimen name="number_slot_dragging_elevation">16dp</dimen>
+    <dimen name="number_slot_text_size">30sp</dimen>
+
+    <!-- button dimens -->
+    <dimen name="button_elevation">10dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
